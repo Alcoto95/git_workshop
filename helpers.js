@@ -19,5 +19,5 @@ module.exports = {
   add,
   divide,
   multiply,
-  substract,
+  subtract,
 };
